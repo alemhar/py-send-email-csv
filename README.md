@@ -1,7 +1,7 @@
 # py-send-email-csv
 Send email to list of emails on CSV file
 
-python sendemail.py -i <input-file.csv> -m <message.txt> -s <subject>'
+USAGE: python sendemail.py -i <input-file.csv> -m <message.txt> -s <subject>'
 
 
 - CSV file as list of name and email. Column names must spell "name" and "email" respectively.
